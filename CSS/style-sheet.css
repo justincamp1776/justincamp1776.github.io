@@ -1,0 +1,59 @@
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #0a0edf;
+    color: white;
+  }
+.body-background {
+  background-color: #DDDDDD;
+  color: #34373b;
+  font-family:fantasy;
+  font-size: 16pt;
+  margin-top: 125px;
+  margin-right: 300px;
+  margin-left: 300px;
+  padding:25px 100px 75px 100px;
+  
+  
+}
+
+
+.header-theme{
+    font:large;
+    font-family:fantasy ;
+}
+
+/* Hi, Im Justin */
+.left-align{
+    text-align: left;
+    font-size:24pt;
+    margin-right: 700px;
+}
+
+/* About Me */
+.word-spacing{
+    word-spacing: 6px;
+}
