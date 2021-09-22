@@ -61,6 +61,7 @@
 
 .main-header {
   font-size: 35pt;
+  font-family:'Courier New', Courier, monospace;
 }
 
 /* Hi, Im Justin */
@@ -73,8 +74,9 @@
 
 /* About Me */
 .word-spacing {
+  font-family: 'Courier New', Courier, monospace;
   word-spacing: 4px;
-  font-size: 20;
+  font-size: 28;
 }
 
 .quote-font {
