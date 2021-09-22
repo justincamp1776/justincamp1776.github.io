@@ -28,7 +28,7 @@
 .body-background {
   background-color: #ffffff;
   color: #082032;
-  font-family: "Courier New", Courier, monospace;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
   font-size: 16pt;
   margin: 100px;
 }
