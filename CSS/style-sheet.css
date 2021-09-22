@@ -1,6 +1,6 @@
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #FF4C29;
+  background-color: #ff4c29;
   overflow: hidden;
 }
 
@@ -11,7 +11,7 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 20px;
 }
 
 /* Change the color of links on hover */
@@ -22,34 +22,34 @@
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #548CA8;
+  background-color: #548ca8;
   color: white;
 }
 .body-background {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   color: #082032;
-  font-family: fantasy;
+  font-family: "Courier New", Courier, monospace;
   font-size: 16pt;
   margin: 100px;
-  
 }
 
-.bg{
-  width: 100%
-  
+.bg {
+  width: 100%;
 }
 
 .about-me {
+  font-family:Arial, Helvetica, sans-serif;
+  word-spacing: 4px;
+  letter-spacing: 1px;
   padding-left: 200;
   padding-right: 200;
 }
 
 .header-theme {
   font-size: 30pt;
-  
 }
 
-.main-header{
+.main-header {
   font-size: 35pt;
 }
 
@@ -62,13 +62,10 @@
 
 /* About Me */
 .word-spacing {
-  word-spacing: 6px;
-}
-
-.quote-font{
-
+  word-spacing: 4px;
   font-size: 20;
 }
 
-
-
+.quote-font {
+  font-size: 20;
+}
