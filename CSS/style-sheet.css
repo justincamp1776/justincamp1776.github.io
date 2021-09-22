@@ -68,6 +68,7 @@
   text-align: left;
   font-size: 24pt;
   margin-right: 700px;
+  white-space: nowrap;
 }
 
 /* About Me */
